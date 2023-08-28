@@ -1,0 +1,8 @@
+# media files
+*.mp4
+*.png
+*.jpg
+
+
+#model files
+*.pt
