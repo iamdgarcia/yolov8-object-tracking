@@ -34,17 +34,12 @@ python python run.py model=yolov8x.pt source=1 show=True
 
 #imagefile
 python python run.py model=yolov8x.pt source="image.png" show=True
-
-
-
 ```
 
 - Output file will be created in the working-dir/runs/detect/train with original filename
 
 
 ### Results
-![yolov8s tracking example](assets/results/street_s.gif)
-
-![yolov8x tracking example](assets/results/street_x.gif)
+![yolov8 tracking example](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdidzE1dWZzM2dzd3B1cnlucGJjY2JwOGN2dGNwNjBiemUyeWQzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f61Ggo08xW8XeZDO0b/giphy-downsized-large.gif)
 
 For more details, you can connect with me on [LinkedIn](https://www.linkedin.com/in/danigarciape/)
