@@ -40,8 +40,8 @@ python python run.py model=yolov8x.pt source="image.png" show=True
 
 
 ### Results
-![yolov8s tracking example](assets/results/street_s.gif)
+![yolov8s tracking example](assets/results/street_s.mp4)
 
-![yolov8x tracking example](assets/results/street_x.gif)
+![yolov8x tracking example](assets/results/street_x.mp4)
 
 For more details, you can connect with me on [LinkedIn](https://www.linkedin.com/in/danigarciape/)
