@@ -1,7 +1,7 @@
 # media files
 *.png
 *.jpg
-
+*.mp4
 
 #model files
 *.pt
